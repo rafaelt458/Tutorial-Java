@@ -1,0 +1,6 @@
+com\laboratorio\java_110\controlador\AlumnoController.class
+com\laboratorio\java_110\resources\JavaEE8Resource.class
+com\laboratorio\java_110\modelo\AlumnoDB.class
+com\laboratorio\java_110\modelo\Alumno.class
+com\laboratorio\java_110\JAXRSConfiguration.class
+com\laboratorio\java_110\persistencia\ConnectionPoolManager.class
