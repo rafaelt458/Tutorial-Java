@@ -1,0 +1,8 @@
+com\laboratorio\java119\ws\Resultado.class
+com\laboratorio\java119\ws\PersonaWebService.class
+com\laboratorio\java119\ws\HolaWebService.class
+com\laboratorio\java119\servicio\PersonaDB.class
+com\laboratorio\java119\JAXRSConfiguration.class
+com\laboratorio\java119\resources\JavaEE8Resource.class
+com\laboratorio\java119\entidad\Persona.class
+com\laboratorio\java119\util\ConnectionPoolManager.class
