@@ -1,0 +1,13 @@
+com\laboratorio\java121\resources\JavaEE8Resource.class
+com\laboratorio\java119\ws\PersonaWebService.class
+com\laboratorio\java121\TestWS.class
+com\laboratorio\java119\ws\ObjectFactory.class
+com\laboratorio\java119\ws\PersonaWebService_Service.class
+com\laboratorio\java119\ws\Persona.class
+com\laboratorio\java119\ws\package-info.class
+com\laboratorio\java119\ws\ListarPersonas.class
+com\laboratorio\java119\ws\ListarPersonasResponse.class
+com\laboratorio\java119\ws\Resultado.class
+com\laboratorio\java119\ws\CrearPersona.class
+com\laboratorio\java119\ws\CrearPersonaResponse.class
+com\laboratorio\java121\JAXRSConfiguration.class
