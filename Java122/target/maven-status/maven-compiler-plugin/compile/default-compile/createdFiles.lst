@@ -1,0 +1,6 @@
+com\laboratorio\java122\JAXRSConfiguration.class
+com\laboratorio\java122\util\ConnectionPoolManager.class
+com\laboratorio\java122\modelo\PersonaDB.class
+com\laboratorio\java122\modelo\Persona.class
+com\laboratorio\java122\resources\JavaEE8Resource.class
+com\laboratorio\java122\ws\PersonasResource.class
