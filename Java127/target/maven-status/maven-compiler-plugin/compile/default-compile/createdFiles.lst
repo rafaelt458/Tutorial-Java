@@ -1,0 +1,14 @@
+com\laboratorio\java127\servicios\HelloService.class
+com\laboratorio\java127\decorador\DecoradorDeDespedida.class
+com\laboratorio\java127\utiles\SaludoPersonalizado.class
+com\laboratorio\java127\utiles\ProductorDeSaludos.class
+com\laboratorio\java127\resources\JavaEE8Resource.class
+com\laboratorio\java127\calificadores\HelloService2Qualifier.class
+com\laboratorio\java127\rest\HelloWS.class
+com\laboratorio\java127\JAXRSConfiguration.class
+com\laboratorio\java127\interceptor\InterceptorDeSaludo.class
+com\laboratorio\java127\servicios\HelloService2Impl.class
+com\laboratorio\java127\servicios\DespedidaImpl.class
+com\laboratorio\java127\servicios\Despedida.class
+com\laboratorio\java127\servicios\HelloServiceImpl.class
+com\laboratorio\java127\calificadores\HelloService1Qualifier.class
