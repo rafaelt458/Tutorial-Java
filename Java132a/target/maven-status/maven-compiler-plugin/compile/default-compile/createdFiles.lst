@@ -1,0 +1,9 @@
+com\laboratorio\java132a\resources\JavaEE8Resource.class
+com\laboratorio\java132a\ejb\stateless\BeanSinEstado.class
+com\laboratorio\java132a\ejb\stateful\BeanConEstadoRemote.class
+com\laboratorio\java132a\ejb\BeanForTestRemote.class
+com\laboratorio\java132a\ejb\BeanForTest.class
+com\laboratorio\java132a\ejb\BeanForTestLocal.class
+com\laboratorio\java132a\ws\Webservice.class
+com\laboratorio\java132a\JAXRSConfiguration.class
+com\laboratorio\java132a\ejb\stateful\BeanConEstado.class
