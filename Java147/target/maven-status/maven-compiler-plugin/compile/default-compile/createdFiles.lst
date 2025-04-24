@@ -1,9 +1,0 @@
-com\laboratorio\java147\mapper\RowMapper.class
-com\laboratorio\java147\mapper\ColumnJDBC.class
-com\laboratorio\java147\config\PersonaConfig.class
-com\laboratorio\java147\dao\PersonaDAO.class
-com\laboratorio\java147\Java147.class
-com\laboratorio\java147\repository\GenericJDBC.class
-com\laboratorio\java147\mapper\GenericRowMapper.class
-com\laboratorio\java147\model\Persona.class
-com\laboratorio\java147\dao\PersonaDAOImpl.class
